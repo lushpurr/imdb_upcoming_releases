@@ -1,10 +1,10 @@
 import './App.css';
-import UpcomingReleaseBox from './containers/UpcomingReleasesBox'
+import UpcomingReleasesBox from './containers/UpcomingReleasesBox'
 
 function App() {
   return (
     <>
-    <UpcomingReleaseBox></UpcomingReleaseBox>
+    <UpcomingReleasesBox className="UpcomingReleasesBox"></UpcomingReleasesBox>
     </>
 
   
